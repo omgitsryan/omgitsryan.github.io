@@ -1,0 +1,19 @@
+background {
+    color: green;
+}
+header {
+    text-align: center;
+    background: #000 url("images/lightning.png");
+    background-size: cover;
+    color: white;
+
+}
+body {
+    text-align: center;
+    background: lightgray;
+}
+img {
+    margin: 40px 0px 0px 0px;
+    border: 7px solid white;
+    border-radius: 20px;
+}
